@@ -1,1 +1,1 @@
-# my-university-lab
+# my first homework lab EKTU 
